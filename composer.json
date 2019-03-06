@@ -1,0 +1,13 @@
+{
+    "name": "muse/array_nested",
+    "description": "Set/Get a nested array value",
+    "license": "Unlicense",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "files": [
+            "array_nested.php"
+        ]
+    }
+}
