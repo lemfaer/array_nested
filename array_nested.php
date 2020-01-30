@@ -7,6 +7,8 @@
  * @param array $path path to value
  * @param mixed $value value to set
  *
+ * @see README.md
+ *
  * @return mixed previous value
  */
 function array_nested(array &$array, $path, $value = null)
