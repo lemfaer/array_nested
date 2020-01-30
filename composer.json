@@ -9,5 +9,10 @@
         "files": [
             "array_nested.php"
         ]
+    },
+    "autoload-dev": {
+        "files": [
+            "test.php"
+        ]
     }
 }
