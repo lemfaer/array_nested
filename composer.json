@@ -12,7 +12,7 @@
     },
     "autoload-dev": {
         "files": [
-            "test.php"
+            "array_nested_test.php"
         ]
     }
 }
